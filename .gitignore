@@ -1,0 +1,5 @@
+cart/node_modules
+container/node_modules
+products/node_modules
+products/.DS_Store
+products/dist/node_modules
